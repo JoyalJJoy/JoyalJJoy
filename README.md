@@ -1,6 +1,6 @@
 <div align="center">
 
-# Joyal J
+# Joyal J Joy
 
 <p><i>Minimal. Fast. Useful.</i></p>
 
@@ -17,7 +17,9 @@
   <img alt="Learning" src="https://img.shields.io/badge/Learning-Go%20%2B%20System%20Design-0B0B0B?style=for-the-badge&labelColor=0B0B0B&color=0B0B0B">
 </p>
 
-<a href="https://github.com/JoyalJJoy">github.com/JoyalJJoy</a>
+<a href="https://github.com/JoyalJJoy">github.com/JoyalJJoy</a> •
+<a href="https://www.linkedin.com/in/joyal-j-joy/">LinkedIn</a> •
+<a href="https://joyal-personal-portfolio.vercel.app/">Portfolio</a>
 
 </div>
 
