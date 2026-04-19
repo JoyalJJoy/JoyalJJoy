@@ -54,20 +54,17 @@
 ### Tools / DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,postman,github,vscode,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=apache&theme=dark" />
 </p>
+
+### Other
 <p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" />
   <img src="https://skillicons.dev/icons?i=apache&theme=dark" />
 </p>
 
 ---
-
-## Also worked with
-- **Zod**
-- **Python**
-- **Fraaple**
-- **Apache Server**
-- **Laravel**
-- **PHP**
 
 ## Learning
 - **Go**
