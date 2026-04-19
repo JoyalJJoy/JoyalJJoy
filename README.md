@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Joyal J Joy
 
@@ -42,7 +42,8 @@
 
 ### Backend / Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=supabase,mysql,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" />
 </p>
 
 ### Mobile
@@ -54,12 +55,19 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,postman,github,vscode,androidstudio&theme=dark" />
 </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=apache&theme=dark" />
+</p>
 
 ---
 
 ## Also worked with
 - **Zod**
 - **Python**
+- **Fraaple**
+- **Apache Server**
+- **Laravel**
+- **PHP**
 
 ## Learning
 - **Go**
