@@ -1,93 +1,142 @@
- <div align="center">
+<div align="center">
 
-# Joyal J Joy
+# Hi, I'm Joyal J Joy 👋
 
-<p><i>Minimal. Fast. Useful.</i></p>
+### Full Stack Developer • MERN Stack • Next.js
+
+<p>
+Building fast, scalable, and user-focused web applications.
+</p>
 
 <img
   src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-  width="520"
-  alt="Coding animation"
+  width="600"
+  alt="Coding Animation"
 />
+
+<br/>
+
+<a href="https://joyal-personal-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/joyal-j-joy/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/JoyalJJoy">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<p>
-  <img alt="Stack" src="https://img.shields.io/badge/Stack-MERN%20%2B%20Next.js-0B0B0B?style=for-the-badge&labelColor=0B0B0B&color=0B0B0B">
-  <img alt="Learning" src="https://img.shields.io/badge/Learning-Go%20%2B%20System%20Design-0B0B0B?style=for-the-badge&labelColor=0B0B0B&color=0B0B0B">
-</p>
-
-<a href="https://github.com/JoyalJJoy">github.com/JoyalJJoy</a> •
-<a href="https://www.linkedin.com/in/joyal-j-joy/">LinkedIn</a> •
-<a href="https://joyal-personal-portfolio.vercel.app/">Portfolio</a>
+<img src="https://komarev.com/ghpvc/?username=JoyalJJoy&style=for-the-badge&color=blueviolet" />
 
 </div>
 
 ---
 
-## Tech Stack
+## 🚀 About Me
 
-### Core
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb&theme=dark" />
+- 💻 Full Stack Developer focused on **MERN Stack**
+- ⚡ Building modern applications with **Next.js & TypeScript**
+- 🌱 Currently learning **Go** and **System Design**
+- 🎯 Passionate about clean architecture and scalable solutions
+- 📍 Kerala, India
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### UI / Styling
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,jquery&theme=dark" />
+### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
 </p>
 
-### Backend / Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,mysql,php&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" />
+### Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
 </p>
 
 ### Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin&theme=dark" />
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,kotlin" />
 </p>
 
-### Tools / DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,postman,github,vscode,androidstudio&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=apache&theme=dark" />
+### Dev Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=github,git,vercel,postman,vscode,androidstudio" />
 </p>
 
-### Other
+---
+
+## 🔥 Currently Working With
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=apache&theme=dark" />
- ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS_Modules-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=nodemailer&logoColor=white)
+
 </p>
 
 ---
 
-## Learning
-- **Go**
-- **System Design**
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JoyalJJoy&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://joyal-personal-portfolio.vercel.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/joyal-j-joy/">LinkedIn</a> •
+<a href="mailto:your-email@example.com">Email</a>
+
+</div>
+
+<br/>
 
 <div align="center">
 
 <img
   src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
-  width="220"
-  alt="Typing animation"
+  width="250"
 />
+
+### Minimal • Fast • Useful
 
 </div>
