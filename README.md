@@ -108,13 +108,7 @@ Building fast, scalable, and user-focused web applications.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JoyalJJoy&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
+ 
 
 ---
 
