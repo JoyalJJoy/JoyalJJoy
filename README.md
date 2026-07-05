@@ -46,6 +46,8 @@ Building fast, scalable, and user-focused web applications.
 
 ---
 
+[![My GitFut Card](https://gitfut.com/JoyalJJoy.png)](https://gitfut.com/JoyalJJoy)
+
 ## 🛠 Tech Stack
 
 ### Frontend
