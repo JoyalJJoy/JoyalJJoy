@@ -224,22 +224,7 @@ Taking software from development to production.
 
 <tr>
 
-<td width="33%" valign="top">
-
-### Poultry SaaS
-
-A management platform designed to simplify everyday poultry farm operations.
-
-**Technology**
-
-`Next.js`
-`TypeScript`
-`PostgreSQL`
-`Prisma`
-`Supabase`
-
-</td>
-
+ 
 <td width="33%" valign="top">
 
 ### Hostel Platform
