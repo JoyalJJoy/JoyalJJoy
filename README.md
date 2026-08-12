@@ -116,14 +116,6 @@ Deploying and maintaining applications using modern development workflows and cl
 
 ## Selected Work
 
-### Poultry Management SaaS
-
-A production-oriented SaaS platform designed to simplify poultry farm operations.
-
-**Next.js · TypeScript · PostgreSQL · Prisma · Supabase**
-
----
-
 ### Hostel Management Platform
 
 A search and management platform with intelligent hostel discovery, proximity-based ranking, premium listings, and location-aware results.
