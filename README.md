@@ -1,32 +1,58 @@
-# Joyal J Joy
-
-### Full Stack Engineer · Software Developer
-
 <div align="center">
 
-**I build software that feels simple.**
+<br>
 
-From interfaces to backend systems,
-I enjoy turning ideas into reliable, thoughtful products.
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=30&duration=2800&pause=1200&color=111111&center=true&vCenter=true&width=700&height=65&lines=Joyal+J+Joy;Full+Stack+Engineer;Software+Developer;Building+simple+things+well" />
 
-<br/>
+<br>
 
-[Portfolio](https://joyal-personal-portfolio.vercel.app) · [GitHub](https://github.com/JoyalJJoy) · [LinkedIn](https://www.linkedin.com/in/joyal-j-j-410284286)
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=400&size=16&duration=3500&pause=1000&color=666666&center=true&vCenter=true&width=650&height=35&lines=Turning+ideas+into+reliable+software.;Exploring+systems%2C+architecture+%26+new+technologies." />
+
+<br><br>
+
+<a href="https://joyal-personal-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=white" />
+</a>
+
+ 
+
+<a href="https://github.com/JoyalJJoy">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/joyal-j-j-410284286">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=1" width="65%" />
 
 </div>
 
----
+<br>
 
 ## About
 
-I'm a Computer Science graduate and software developer based in Kerala, India.
+I'm a **Computer Science graduate and Full Stack Engineer** based in Kerala, India.
 
-I enjoy working across the stack — building interfaces, designing APIs, working with databases, and thinking about how systems should scale.
+I build software across the stack — from interfaces and APIs to databases and deployment.
 
-I'm currently exploring **software architecture, system design, Go, and distributed systems**, while continuing to build production-oriented applications with modern web technologies.
+I'm currently exploring **software architecture, system design, Go, cloud infrastructure and distributed systems**.
 
-> **Good software doesn't need to be complicated.
-> It needs to be well thought out.**
+I like technology, but I like **well-designed technology** even more.
+
+<br>
+
+<div align="center">
+
+### *Build less. Think better. Ship well.*
+
+</div>
+
+<br>
 
 ---
 
@@ -34,133 +60,165 @@ I'm currently exploring **software architecture, system design, Go, and distribu
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### Product Interfaces
+### 01 — Interfaces
 
-Clean, responsive interfaces with an emphasis on usability, performance, and accessibility.
+Clean, responsive interfaces focused on usability, accessibility and performance.
 
-**React · Next.js · TypeScript · Tailwind CSS**
+<br>
+
+`React` · `Next.js` · `TypeScript` · `Tailwind`
 
 </td>
 
 <td width="50%" valign="top">
 
-### Backend Systems
+### 02 — Backend
 
-APIs and application backends designed around clear architecture, validation, security, and maintainability.
+Reliable APIs and application backends with clear architecture and validation.
 
-**Node.js · Express · PostgreSQL · MongoDB**
+<br>
+
+`Node.js` · `Express` · `REST` · `Zod`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### Data
+### 03 — Data
 
-Designing schemas and data flows that remain understandable as applications grow.
+Schemas and data flows designed to remain understandable as applications grow.
 
-**PostgreSQL · Prisma · MongoDB · Supabase · Neon**
+<br>
+
+`PostgreSQL` · `MongoDB` · `Prisma` · `Supabase`
 
 </td>
 
 <td width="50%" valign="top">
 
-### Infrastructure
+### 04 — Infrastructure
 
-Deploying and maintaining applications using modern development workflows and cloud platforms.
+Moving applications from local development to production.
 
-**Docker · Vercel · Git · GitHub · Firebase**
+<br>
+
+`Docker` · `Vercel` · `Git` · `GitHub`
 
 </td>
+
 </tr>
 </table>
+
+<br>
 
 ---
 
 ## Technology
 
-### Languages
+<div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square\&logo=javascript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-111111?style=flat-square\&logo=go\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square\&logo=php\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,php,react,nextjs,tailwind,nodejs,express,postgres,mongodb,prisma,supabase,docker,git,github,vercel&theme=light&perline=9" />
 
-### Frontend
+</div>
 
-![React](https://img.shields.io/badge/React-111111?style=flat-square\&logo=react\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square\&logo=tailwindcss\&logoColor=white)
-
-### Backend & Data
-
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111111?style=flat-square\&logo=express\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square\&logo=mongodb\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-111111?style=flat-square\&logo=prisma\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square\&logo=supabase\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square\&logo=docker\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square\&logo=vercel\&logoColor=white)
+<br>
 
 ---
 
 ## Selected Work
 
-### Hostel Management Platform
+<table>
 
-A search and management platform with intelligent hostel discovery, proximity-based ranking, premium listings, and location-aware results.
+<tr>
 
-**Next.js · TypeScript · MongoDB · REST APIs**
+<td width="33%" valign="top">
 
----
+### Poultry SaaS
+
+A management platform designed to simplify everyday poultry farm operations.
+
+**Stack**
+
+`Next.js`
+`TypeScript`
+`PostgreSQL`
+`Prisma`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Hostel Platform
+
+Location-aware hostel discovery with proximity ranking and premium listings.
+
+**Stack**
+
+`Next.js`
+`TypeScript`
+`MongoDB`
+
+</td>
+
+<td width="33%" valign="top">
 
 ### Mini Jira
 
-A project management platform inspired by modern issue-tracking systems, featuring Kanban workflows and sprint management.
+A project management platform inspired by modern issue-tracking systems.
 
-**React · FastAPI · PostgreSQL · Authentication**
+**Stack**
+
+`React`
+`FastAPI`
+`PostgreSQL`
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 ---
 
-## How I Think
+## Engineering Principles
 
-|                      |                                                           |
-| -------------------- | --------------------------------------------------------- |
-| **01 — Simplicity**  | Remove unnecessary complexity before adding abstractions. |
-| **02 — Structure**   | Keep systems modular and responsibilities clear.          |
-| **03 — Performance** | Measure first. Optimize what actually matters.            |
-| **04 — Reliability** | Software should behave predictably when things go wrong.  |
-| **05 — Curiosity**   | Learn new technologies by building with them.             |
+<div align="center">
+
+<table>
+
+<tr>
+<td align="center"><b>01</b><br><br><b>Clarity</b><br><sub>Understandable over clever.</sub></td>
+<td align="center"><b>02</b><br><br><b>Structure</b><br><sub>Simple, modular systems.</sub></td>
+<td align="center"><b>03</b><br><br><b>Performance</b><br><sub>Measure before optimizing.</sub></td>
+<td align="center"><b>04</b><br><br><b>Reliability</b><br><sub>Design for failure.</sub></td>
+</tr>
+
+</table>
+
+</div>
+
+<br>
 
 ---
 
 ## Currently Exploring
 
-**Go**
+<div align="center">
 
-Learning systems-level programming and understanding how performant software is built closer to the machine.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=900&color=111111&center=true&vCenter=true&width=650&height=35&lines=%E2%80%A2+Go+%2F+Systems+Programming;%E2%80%A2+System+Design+%2F+Distributed+Systems;%E2%80%A2+Cloud+%2F+Infrastructure;%E2%80%A2+Software+Architecture;%E2%80%A2+Backend+Engineering" />
 
-**System Design**
+</div>
 
-Exploring scalable architectures, distributed systems, caching, messaging, and reliability.
-
-**Cloud & Infrastructure**
-
-Learning how applications move from a local development environment to reliable production systems.
-
-**Software Architecture**
-
-Going deeper into the decisions behind maintainable and scalable software.
+<br>
 
 ---
 
@@ -168,36 +226,60 @@ Going deeper into the decisions behind maintainable and scalable software.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=transparent&title_color=111111&text_color=555555&icon_color=111111" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=transparent&title_color=111111&text_color=555555&icon_color=111111&rank_icon=github" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=transparent&title_color=111111&text_color=555555" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=transparent&title_color=111111&text_color=555555" height="170" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyalJJoy&theme=transparent&hide_border=true&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=555555&dates=777777" />
 
 </div>
 
+<br>
+
 ---
 
-## Let's Connect
+## Activity
 
 <div align="center">
 
-**Have an interesting problem to solve?**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyalJJoy&bg_color=ffffff00&color=111111&line=111111&point=111111&area=true&hide_border=true" width="95%" />
 
-I'd love to hear about it.
+</div>
 
-<br/>
-
-[**Portfolio →**](https://joyal-personal-portfolio.vercel.app)
-
-[**GitHub →**](https://github.com/JoyalJJoy)
-
-[**LinkedIn →**](https://www.linkedin.com/in/joyal-j-j-410284286)
-
-<br/>
+<br>
 
 ---
 
-### Build something meaningful.
+## Connect
 
-*Joyal J Joy · India · 2026*
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=18&duration=3000&pause=1200&color=555555&center=true&vCenter=true&width=600&height=40&lines=Have+an+interesting+problem%3F;Let's+build+something+meaningful." />
+
+<br><br>
+
+<a href="https://joyal-personal-portfolio.vercel.app">
+<b>Portfolio →</b>
+</a>
+
+  ·  
+
+<a href="https://github.com/JoyalJJoy">
+<b>GitHub →</b>
+</a>
+
+  ·  
+
+<a href="https://www.linkedin.com/in/joyal-j-j-410284286">
+<b>LinkedIn →</b>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
+
+<sub>Joyal J Joy · India · 2026</sub>
 
 </div>
