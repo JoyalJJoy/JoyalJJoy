@@ -1,203 +1,519 @@
-# Joyal J Joy
+<div align="center">
 
-### Full Stack Engineer · Software Developer
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=32&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&height=70&lines=Joyal+J+Joy;Full+Stack+Engineer;Software+Developer;Building+simple+things+well">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=32&duration=2800&pause=1200&color=111111&center=true&vCenter=true&width=750&height=70&lines=Joyal+J+Joy;Full+Stack+Engineer;Software+Developer;Building+simple+things+well">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=32&duration=2800&pause=1200&color=111111&center=true&vCenter=true&width=750&height=70&lines=Joyal+J+Joy;Full+Stack+Engineer;Software+Developer;Building+simple+things+well" alt="Joyal J Joy">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=400&size=16&duration=3500&pause=900&color=AAAAAA&center=true&vCenter=true&width=680&height=40&lines=Turning+ideas+into+reliable+software.;Exploring+systems%2C+architecture+%26+new+technologies.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=400&size=16&duration=3500&pause=900&color=666666&center=true&vCenter=true&width=680&height=40&lines=Turning+ideas+into+reliable+software.;Exploring+systems%2C+architecture+%26+new+technologies.">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=400&size=16&duration=3500&pause=900&color=666666&center=true&vCenter=true&width=680&height=40&lines=Turning+ideas+into+reliable+software.;Exploring+systems%2C+architecture+%26+new+technologies." alt="Introduction">
+</picture>
+
+<br><br>
+
+<a href="https://joyal-personal-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=white" alt="Portfolio">
+</a>
+
+ 
+
+<a href="https://github.com/JoyalJJoy">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/joyal-j-j-410284286">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<br><br>
+
+---
+
+# Hello.
+
+I'm **Joyal J Joy**, a Computer Science graduate and Full Stack Engineer from India.
+
+I enjoy building software across the stack — from interfaces and APIs to databases and deployment.
+
+My work revolves around **clean interfaces, reliable backend systems, thoughtful architecture and continuous learning**.
+
+Currently exploring:
+
+`Go` · `System Design` · `Software Architecture` · `Cloud` · `Distributed Systems`
+
+<br>
 
 <div align="center">
 
-**I build software that feels simple.**
-
-From interfaces to backend systems,
-I enjoy turning ideas into reliable, thoughtful products.
-
-<br/>
-
-[Portfolio](https://joyal-personal-portfolio.vercel.app) · [GitHub](https://github.com/JoyalJJoy) · [LinkedIn](https://www.linkedin.com/in/joyal-j-j-410284286)
+### *Good software should feel simple.*
 
 </div>
 
----
-
-## About
-
-I'm a Computer Science graduate and software developer based in Kerala, India.
-
-I enjoy working across the stack — building interfaces, designing APIs, working with databases, and thinking about how systems should scale.
-
-I'm currently exploring **software architecture, system design, Go, and distributed systems**, while continuing to build production-oriented applications with modern web technologies.
-
-> **Good software doesn't need to be complicated.
-> It needs to be well thought out.**
+<br>
 
 ---
 
-## What I Build
+# About Me
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### Product Interfaces
+### Who I am
 
-Clean, responsive interfaces with an emphasis on usability, performance, and accessibility.
+Computer Science graduate with a strong interest in software engineering.
 
-**React · Next.js · TypeScript · Tailwind CSS**
+I enjoy understanding **how things work**, not just how to make them work.
+
+I'm particularly interested in the relationship between product design, engineering and system architecture.
 
 </td>
 
 <td width="50%" valign="top">
 
-### Backend Systems
+### What I care about
 
-APIs and application backends designed around clear architecture, validation, security, and maintainability.
-
-**Node.js · Express · PostgreSQL · MongoDB**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Data
-
-Designing schemas and data flows that remain understandable as applications grow.
-
-**PostgreSQL · Prisma · MongoDB · Supabase · Neon**
+* Clean code
+* Simple architecture
+* Good user experience
+* Performance
+* Reliability
+* Developer experience
+* Continuous learning
 
 </td>
 
-<td width="50%" valign="top">
-
-### Infrastructure
-
-Deploying and maintaining applications using modern development workflows and cloud platforms.
-
-**Docker · Vercel · Git · GitHub · Firebase**
-
-</td>
 </tr>
 </table>
 
+<br>
+
 ---
 
-## Technology
+# What I Build
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 01
+
+### Interfaces
+
+Building responsive interfaces that are simple, fast and pleasant to use.
+
+**React**
+**Next.js**
+**TypeScript**
+**Tailwind CSS**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 02
+
+### Backend Systems
+
+Building APIs and application backends with clear responsibilities and maintainable architecture.
+
+**Node.js**
+**Express**
+**REST APIs**
+**Zod**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 03
+
+### Data Systems
+
+Designing schemas, relationships and data flows for growing applications.
+
+**PostgreSQL**
+**MongoDB**
+**Prisma**
+**Supabase**
+**Neon**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 04
+
+### Infrastructure
+
+Taking software from development to production.
+
+**Docker**
+**Vercel**
+**Git**
+**GitHub**
+**Firebase**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+# Technology
+
+<div align="center">
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square\&logo=javascript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-111111?style=flat-square\&logo=go\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square\&logo=php\&logoColor=white)
+<br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,php&theme=light" alt="Languages">
+
+<br><br>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-111111?style=flat-square\&logo=react\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square\&logo=tailwindcss\&logoColor=white)
+<br>
 
-### Backend & Data
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=light" alt="Frontend">
 
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111111?style=flat-square\&logo=express\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square\&logo=mongodb\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-111111?style=flat-square\&logo=prisma\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square\&logo=supabase\&logoColor=white)
+<br><br>
 
-### Tools
+### Backend & Database
 
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square\&logo=docker\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square\&logo=vercel\&logoColor=white)
+<br>
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,supabase&theme=light" alt="Backend">
 
-## Selected Work
+<br><br>
 
-### Hostel Management Platform
+### Tools & Infrastructure
 
-A search and management platform with intelligent hostel discovery, proximity-based ranking, premium listings, and location-aware results.
+<br>
 
-**Next.js · TypeScript · MongoDB · REST APIs**
-
----
-
-### Mini Jira
-
-A project management platform inspired by modern issue-tracking systems, featuring Kanban workflows and sprint management.
-
-**React · FastAPI · PostgreSQL · Authentication**
-
----
-
-## How I Think
-
-|                      |                                                           |
-| -------------------- | --------------------------------------------------------- |
-| **01 — Simplicity**  | Remove unnecessary complexity before adding abstractions. |
-| **02 — Structure**   | Keep systems modular and responsibilities clear.          |
-| **03 — Performance** | Measure first. Optimize what actually matters.            |
-| **04 — Reliability** | Software should behave predictably when things go wrong.  |
-| **05 — Curiosity**   | Learn new technologies by building with them.             |
-
----
-
-## Currently Exploring
-
-**Go**
-
-Learning systems-level programming and understanding how performant software is built closer to the machine.
-
-**System Design**
-
-Exploring scalable architectures, distributed systems, caching, messaging, and reliability.
-
-**Cloud & Infrastructure**
-
-Learning how applications move from a local development environment to reliable production systems.
-
-**Software Architecture**
-
-Going deeper into the decisions behind maintainable and scalable software.
-
----
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=transparent&title_color=111111&text_color=555555&icon_color=111111" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=transparent&title_color=111111&text_color=555555" height="165"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,firebase&theme=light" alt="Tools">
 
 </div>
 
+<br>
+
 ---
 
-## Let's Connect
+# Selected Work
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### Poultry SaaS
+
+A management platform designed to simplify everyday poultry farm operations.
+
+**Technology**
+
+`Next.js`
+`TypeScript`
+`PostgreSQL`
+`Prisma`
+`Supabase`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Hostel Platform
+
+A location-aware hostel discovery platform with search, proximity ranking and premium listings.
+
+**Technology**
+
+`Next.js`
+`TypeScript`
+`MongoDB`
+`REST API`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Mini Jira
+
+A project management platform inspired by modern issue-tracking systems.
+
+**Technology**
+
+`React`
+`FastAPI`
+`PostgreSQL`
+`Authentication`
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+---
+
+# Engineering Principles
 
 <div align="center">
 
-**Have an interesting problem to solve?**
+|        | Principle                                                 |     |
+| :----: | :-------------------------------------------------------- | :-: |
+| **01** | **Clarity** — Understandable code over clever code.       |     |
+| **02** | **Structure** — Small pieces with clear responsibilities. |     |
+| **03** | **Performance** — Measure first. Optimize what matters.   |     |
+| **04** | **Reliability** — Design for failure, not just success.   |     |
+| **05** | **Curiosity** — Learn by building and questioning.        |     |
 
-I'd love to hear about it.
+</div>
 
-<br/>
-
-[**Portfolio →**](https://joyal-personal-portfolio.vercel.app)
-
-[**GitHub →**](https://github.com/JoyalJJoy)
-
-[**LinkedIn →**](https://www.linkedin.com/in/joyal-j-j-410284286)
-
-<br/>
+<br>
 
 ---
 
-### Build something meaningful.
+# Currently Exploring
 
-*Joyal J Joy · India · 2026*
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&height=40&lines=%E2%80%A2+Go+%E2%80%94+Systems+Programming;%E2%80%A2+System+Design+%E2%80%94+Distributed+Systems;%E2%80%A2+Cloud+%E2%80%94+Infrastructure;%E2%80%A2+Architecture+%E2%80%94+Scalable+Systems;%E2%80%A2+Backend+%E2%80%94+Reliable+Services">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=800&color=111111&center=true&vCenter=true&width=650&height=40&lines=%E2%80%A2+Go+%E2%80%94+Systems+Programming;%E2%80%A2+System+Design+%E2%80%94+Distributed+Systems;%E2%80%A2+Cloud+%E2%80%94+Infrastructure;%E2%80%A2+Architecture+%E2%80%94+Scalable+Systems;%E2%80%A2+Backend+%E2%80%94+Reliable+Services">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=800&color=111111&center=true&vCenter=true&width=650&height=40&lines=%E2%80%A2+Go+%E2%80%94+Systems+Programming;%E2%80%A2+System+Design+%E2%80%94+Distributed+Systems;%E2%80%A2+Cloud+%E2%80%94+Infrastructure;%E2%80%A2+Architecture+%E2%80%94+Scalable+Systems;%E2%80%A2+Backend+%E2%80%94+Reliable+Services" alt="Currently exploring">
+</picture>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### Go
+
+Systems
+Concurrency
+Performance
+
+</td>
+
+<td align="center" width="25%">
+
+### Architecture
+
+System Design
+Scalability
+Reliability
+
+</td>
+
+<td align="center" width="25%">
+
+### Cloud
+
+Containers
+Deployment
+Infrastructure
+
+</td>
+
+<td align="center" width="25%">
+
+### Backend
+
+APIs
+Services
+Distributed Systems
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+# GitHub
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=default&rank_icon=github">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="170" alt="GitHub statistics">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=default" height="170" alt="Top languages">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JoyalJJoy&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JoyalJJoy&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyalJJoy&theme=default&hide_border=true" height="170" alt="GitHub streak">
+</picture>
+
+</div>
+
+<br>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/JoyalJJoy">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/FFFFFF/JoyalJJoy">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/111111/JoyalJJoy">
+  <img src="https://ghchart.rshah.org/111111/JoyalJJoy" alt="Joyal J Joy GitHub contribution activity" width="90%">
+</picture>
+
+</a>
+
+<br>
+
+<sub>Contribution activity</sub>
+
+</div>
+
+<br>
+
+---
+
+# Building Right Now
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=550&height=35&lines=%E2%97%8F+Building+production+software;%E2%97%8F+Learning+system+design;%E2%97%8F+Exploring+Go;%E2%97%8F+Understanding+distributed+systems;%E2%97%8F+Looking+for+interesting+problems">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=900&color=111111&center=true&vCenter=true&width=550&height=35&lines=%E2%97%8F+Building+production+software;%E2%97%8F+Learning+system+design;%E2%97%8F+Exploring+Go;%E2%97%8F+Understanding+distributed+systems;%E2%97%8F+Looking+for+interesting+problems">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=900&color=111111&center=true&vCenter=true&width=550&height=35&lines=%E2%97%8F+Building+production+software;%E2%97%8F+Learning+system+design;%E2%97%8F+Exploring+Go;%E2%97%8F+Understanding+distributed+systems;%E2%97%8F+Looking+for+interesting+problems" alt="Building right now">
+</picture>
+
+</div>
+
+<br>
+
+---
+
+# A Little More
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### Software
+
+Building things
+that solve problems.
+
+</td>
+
+<td align="center" width="25%">
+
+### Design
+
+Simple interfaces
+with thoughtful details.
+
+</td>
+
+<td align="center" width="25%">
+
+### Systems
+
+Understanding what
+happens underneath.
+
+</td>
+
+<td align="center" width="25%">
+
+### Learning
+
+Always exploring
+something new.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<br>
+
+---
+
+# Connect
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=18&duration=3000&pause=1200&color=AAAAAA&center=true&vCenter=true&width=600&height=40&lines=Have+an+interesting+problem%3F;Let's+build+something+meaningful.;Always+open+to+good+ideas.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=18&duration=3000&pause=1200&color=555555&center=true&vCenter=true&width=600&height=40&lines=Have+an+interesting+problem%3F;Let's+build+something+meaningful.;Always+open+to+good+ideas.">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=18&duration=3000&pause=1200&color=555555&center=true&vCenter=true&width=600&height=40&lines=Have+an+interesting+problem%3F;Let's+build+something+meaningful.;Always+open+to+good+ideas." alt="Connect">
+</picture>
+
+<br><br>
+
+<a href="https://joyal-personal-portfolio.vercel.app">
+<b>Portfolio →</b>
+</a>
+
+  ·  
+
+<a href="https://github.com/JoyalJJoy">
+<b>GitHub →</b>
+</a>
+
+  ·  
+
+<a href="https://www.linkedin.com/in/joyal-j-j-410284286">
+<b>LinkedIn →</b>
+</a>
+
+<br><br>
+
+<sub>Joyal J Joy · India · 2026</sub>
 
 </div>
