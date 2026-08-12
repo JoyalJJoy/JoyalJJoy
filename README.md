@@ -2,47 +2,51 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=32&duration=2800&pause=1200&color=111111&center=true&vCenter=true&width=750&height=70&lines=Joyal+J+Joy;Full+Stack+Engineer;Software+Developer;Building+simple+things+well" alt="Joyal J Joy" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=32&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&height=70&lines=Joyal+J+Joy;Full+Stack+Engineer;Software+Developer;Building+simple+things+well">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=32&duration=2800&pause=1200&color=111111&center=true&vCenter=true&width=750&height=70&lines=Joyal+J+Joy;Full+Stack+Engineer;Software+Developer;Building+simple+things+well">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=32&duration=2800&pause=1200&color=111111&center=true&vCenter=true&width=750&height=70&lines=Joyal+J+Joy;Full+Stack+Engineer;Software+Developer;Building+simple+things+well" alt="Joyal J Joy">
+</picture>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=400&size=16&duration=3500&pause=900&color=666666&center=true&vCenter=true&width=680&height=40&lines=Turning+ideas+into+reliable+software.;Exploring+systems%2C+architecture+%26+new+technologies." alt="Introduction" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=400&size=16&duration=3500&pause=900&color=AAAAAA&center=true&vCenter=true&width=680&height=40&lines=Turning+ideas+into+reliable+software.;Exploring+systems%2C+architecture+%26+new+technologies.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=400&size=16&duration=3500&pause=900&color=666666&center=true&vCenter=true&width=680&height=40&lines=Turning+ideas+into+reliable+software.;Exploring+systems%2C+architecture+%26+new+technologies.">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=400&size=16&duration=3500&pause=900&color=666666&center=true&vCenter=true&width=680&height=40&lines=Turning+ideas+into+reliable+software.;Exploring+systems%2C+architecture+%26+new+technologies." alt="Introduction">
+</picture>
 
 <br><br>
 
 <a href="https://joyal-personal-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=white" alt="Portfolio">
 </a>
 
  
 
 <a href="https://github.com/JoyalJJoy">
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
 
  
 
 <a href="https://www.linkedin.com/in/joyal-j-j-410284286">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=1" width="60%" alt="" />
-
-</div>
-
-<br>
+---
 
 # Hello.
 
 I'm **Joyal J Joy**, a Computer Science graduate and Full Stack Engineer from India.
 
-I enjoy building software from the interface all the way to the database.
+I enjoy building software across the stack — from interfaces and APIs to databases and deployment.
 
 My work revolves around **clean interfaces, reliable backend systems, thoughtful architecture and continuous learning**.
 
-Currently, I'm going deeper into:
+Currently exploring:
 
 `Go` · `System Design` · `Software Architecture` · `Cloud` · `Distributed Systems`
 
@@ -71,7 +75,7 @@ Computer Science graduate with a strong interest in software engineering.
 
 I enjoy understanding **how things work**, not just how to make them work.
 
-I'm especially interested in the relationship between product design, engineering and system architecture.
+I'm particularly interested in the relationship between product design, engineering and system architecture.
 
 </td>
 
@@ -182,7 +186,7 @@ Taking software from development to production.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,php&theme=light" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,php&theme=light" alt="Languages">
 
 <br><br>
 
@@ -190,7 +194,7 @@ Taking software from development to production.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=light" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=light" alt="Frontend">
 
 <br><br>
 
@@ -198,7 +202,7 @@ Taking software from development to production.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,supabase&theme=light" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,supabase&theme=light" alt="Backend">
 
 <br><br>
 
@@ -206,7 +210,7 @@ Taking software from development to production.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,firebase&theme=light" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,firebase&theme=light" alt="Tools">
 
 </div>
 
@@ -278,68 +282,13 @@ A project management platform inspired by modern issue-tracking systems.
 
 <div align="center">
 
-<table>
-
-<tr>
-
-<td align="center" width="20%">
-
-### 01
-
-**Clarity**
-
-Understandable code
-over clever code.
-
-</td>
-
-<td align="center" width="20%">
-
-### 02
-
-**Structure**
-
-Small pieces.
-Clear responsibilities.
-
-</td>
-
-<td align="center" width="20%">
-
-### 03
-
-**Performance**
-
-Measure first.
-Optimize what matters.
-
-</td>
-
-<td align="center" width="20%">
-
-### 04
-
-**Reliability**
-
-Design for failure,
-not just success.
-
-</td>
-
-<td align="center" width="20%">
-
-### 05
-
-**Curiosity**
-
-Learn by building.
-Improve by questioning.
-
-</td>
-
-</tr>
-
-</table>
+|        | Principle                                                 |     |
+| :----: | :-------------------------------------------------------- | :-: |
+| **01** | **Clarity** — Understandable code over clever code.       |     |
+| **02** | **Structure** — Small pieces with clear responsibilities. |     |
+| **03** | **Performance** — Measure first. Optimize what matters.   |     |
+| **04** | **Reliability** — Design for failure, not just success.   |     |
+| **05** | **Curiosity** — Learn by building and questioning.        |     |
 
 </div>
 
@@ -351,7 +300,11 @@ Improve by questioning.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=800&color=111111&center=true&vCenter=true&width=650&height=40&lines=%E2%80%A2+Go+%E2%80%94+Systems+Programming;%E2%80%A2+System+Design+%E2%80%94+Distributed+Systems;%E2%80%A2+Cloud+%E2%80%94+Infrastructure;%E2%80%A2+Architecture+%E2%80%94+Scalable+Systems;%E2%80%A2+Backend+%E2%80%94+Reliable+Services" alt="Currently exploring" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&height=40&lines=%E2%80%A2+Go+%E2%80%94+Systems+Programming;%E2%80%A2+System+Design+%E2%80%94+Distributed+Systems;%E2%80%A2+Cloud+%E2%80%94+Infrastructure;%E2%80%A2+Architecture+%E2%80%94+Scalable+Systems;%E2%80%A2+Backend+%E2%80%94+Reliable+Services">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=800&color=111111&center=true&vCenter=true&width=650&height=40&lines=%E2%80%A2+Go+%E2%80%94+Systems+Programming;%E2%80%A2+System+Design+%E2%80%94+Distributed+Systems;%E2%80%A2+Cloud+%E2%80%94+Infrastructure;%E2%80%A2+Architecture+%E2%80%94+Scalable+Systems;%E2%80%A2+Backend+%E2%80%94+Reliable+Services">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=800&color=111111&center=true&vCenter=true&width=650&height=40&lines=%E2%80%A2+Go+%E2%80%94+Systems+Programming;%E2%80%A2+System+Design+%E2%80%94+Distributed+Systems;%E2%80%A2+Cloud+%E2%80%94+Infrastructure;%E2%80%A2+Architecture+%E2%80%94+Scalable+Systems;%E2%80%A2+Backend+%E2%80%94+Reliable+Services" alt="Currently exploring">
+</picture>
 
 <br><br>
 
@@ -411,13 +364,25 @@ Distributed Systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=transparent&title_color=111111&text_color=555555&icon_color=111111&rank_icon=github" height="170" alt="GitHub statistics" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=default&rank_icon=github">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="170" alt="GitHub statistics">
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=transparent&title_color=111111&text_color=555555" height="170" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=default" height="170" alt="Top languages">
+</picture>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyalJJoy&theme=transparent&hide_border=true&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=555555&dates=777777" height="170" alt="GitHub streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JoyalJJoy&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=JoyalJJoy&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyalJJoy&theme=default&hide_border=true" height="170" alt="GitHub streak">
+</picture>
 
 </div>
 
@@ -431,13 +396,17 @@ Distributed Systems
 
 <a href="https://github.com/JoyalJJoy">
 
-<img src="https://ghchart.rshah.org/111111/JoyalJJoy" alt="Joyal J Joy GitHub contribution graph" width="90%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/FFFFFF/JoyalJJoy">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/111111/JoyalJJoy">
+  <img src="https://ghchart.rshah.org/111111/JoyalJJoy" alt="Joyal J Joy GitHub contribution activity" width="90%">
+</picture>
 
 </a>
 
 <br>
 
-<sub>My GitHub activity over time</sub>
+<sub>Contribution activity</sub>
 
 </div>
 
@@ -449,7 +418,11 @@ Distributed Systems
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=900&color=111111&center=true&vCenter=true&width=550&height=35&lines=%E2%97%8F+Building+production+software;%E2%97%8F+Learning+system+design;%E2%97%8F+Exploring+Go;%E2%97%8F+Understanding+distributed+systems;%E2%97%8F+Looking+for+interesting+problems" alt="Building status" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=550&height=35&lines=%E2%97%8F+Building+production+software;%E2%97%8F+Learning+system+design;%E2%97%8F+Exploring+Go;%E2%97%8F+Understanding+distributed+systems;%E2%97%8F+Looking+for+interesting+problems">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=900&color=111111&center=true&vCenter=true&width=550&height=35&lines=%E2%97%8F+Building+production+software;%E2%97%8F+Learning+system+design;%E2%97%8F+Exploring+Go;%E2%97%8F+Understanding+distributed+systems;%E2%97%8F+Looking+for+interesting+problems">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=900&color=111111&center=true&vCenter=true&width=550&height=35&lines=%E2%97%8F+Building+production+software;%E2%97%8F+Learning+system+design;%E2%97%8F+Exploring+Go;%E2%97%8F+Understanding+distributed+systems;%E2%97%8F+Looking+for+interesting+problems" alt="Building right now">
+</picture>
 
 </div>
 
@@ -515,7 +488,11 @@ something new.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=18&duration=3000&pause=1200&color=555555&center=true&vCenter=true&width=600&height=40&lines=Have+an+interesting+problem%3F;Let's+build+something+meaningful.;Always+open+to+good+ideas." alt="Let's connect" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=18&duration=3000&pause=1200&color=AAAAAA&center=true&vCenter=true&width=600&height=40&lines=Have+an+interesting+problem%3F;Let's+build+something+meaningful.;Always+open+to+good+ideas.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=18&duration=3000&pause=1200&color=555555&center=true&vCenter=true&width=600&height=40&lines=Have+an+interesting+problem%3F;Let's+build+something+meaningful.;Always+open+to+good+ideas.">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=18&duration=3000&pause=1200&color=555555&center=true&vCenter=true&width=600&height=40&lines=Have+an+interesting+problem%3F;Let's+build+something+meaningful.;Always+open+to+good+ideas." alt="Connect">
+</picture>
 
 <br><br>
 
@@ -536,10 +513,6 @@ something new.
 </a>
 
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=110&section=footer" width="100%" alt="" />
-
-<br>
 
 <sub>Joyal J Joy · India · 2026</sub>
 
