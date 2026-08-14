@@ -2,360 +2,160 @@
 
 <br>
 
-```
-╔═══════════════════════════════════════════════╗
-║                                               ║
-║          👨‍💻  Joyal J Joy                       ║
-║                                               ║
-║     Full Stack Engineer • Building Simply     ║
-║                                               ║
-╚═══════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Joyal+J+Joy" alt="Joyal J Joy" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3200&pause=900&color=666666&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Engineer;Building+simple+things+well;Turning+ideas+into+reliable+software" alt="tagline" />
 
 <br>
 
-**Turning ideas into reliable software**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=808080&center=true&width=400&lines=Clean+Code;Simple+Systems;Thoughtful+Design;Continuous+Learning" alt="typing" />
-
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://joyal-personal-portfolio.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoyalJJoy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyal-j-j-410284286)
+<p>
+  <a href="https://joyal-personal-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/JoyalJJoy">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/joyal-j-j-410284286">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 </div>
+
+<br>
 
 ---
 
-<div align="center">
+## About Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrng815fy/giphy.gif" width="28" height="28"> About Me
+I'm a Computer Science graduate and Full Stack Engineer from India. I enjoy building software across the stack — from interfaces and APIs to databases and deployment.
 
-</div>
+My work centers on **clean interfaces, reliable backend systems, thoughtful architecture, and continuous learning**.
 
-I'm a **Computer Science graduate** and **Full Stack Engineer** passionate about building software that's simple, reliable, and thoughtful. I don't just make things work—I understand *how* and *why* they work.
-
-```
-My Philosophy:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Clarity over Cleverness
-  Structure over Complexity
-  Performance that Matters
-  Reliability by Design
-  Always Learning
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```text
+Currently exploring → Go · System Design · Software Architecture · Cloud · Distributed Systems
 ```
 
----
-
-<div align="center">
-
-## 🛠️ What I Build
-
-</div>
-
-<table align="center">
-<tr>
-
-<td width="48%">
-
-### ✨ Interfaces
-Fast, responsive, delightful experiences that users love.
-
-**React** • **Next.js** • **TypeScript**  
-**Tailwind CSS** • **HTML/CSS**
-
-</td>
-
-<td width="4%"></td>
-
-<td width="48%">
-
-### ⚙️ Systems
-Reliable, maintainable backend architectures built for scale.
-
-**Node.js** • **Express** • **REST APIs**  
-**Zod** • **Authentication**
-
-</td>
-
-</tr>
-
-<tr height="20"></tr>
-
-<tr>
-
-<td width="48%">
-
-### 🗄️ Data
-Well-designed schemas and flows that grow with your app.
-
-**PostgreSQL** • **MongoDB** • **Prisma**  
-**Supabase** • **Neon**
-
-</td>
-
-<td width="4%"></td>
-
-<td width="48%">
-
-### 🚀 Deployment
-From development to production—reliably.
-
-**Docker** • **Vercel** • **Firebase**  
-**Git** • **GitHub** • **Cloud**
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-## 💡 Tech Stack
-
-</div>
-
-<table align="center">
-<tr>
-
-<td align="center" width="20%">
-
-### Languages
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,php" alt="Languages" />
+## What I Build
 
-</td>
-
-<td align="center" width="20%">
-
-### Frontend
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" />
-
-</td>
-
-<td align="center" width="20%">
-
-### Backend
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" alt="Backend" />
-
-</td>
-
-<td align="center" width="20%">
-
-### Tools
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,firebase" alt="Tools" />
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🎯 Selected Projects
-
-</div>
-
-<table align="center">
-
+<table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🏢 Hostel Platform
+**🎨 Interfaces**
+Responsive, fast, and pleasant to use.
+`React` `Next.js` `TypeScript` `Tailwind CSS`
 
-A **location-aware discovery platform** with intelligent search, proximity ranking, and premium listing features.
+</td>
+<td width="50%" valign="top">
 
-**Key Features:**
-- Geolocation-based search
-- Smart proximity ranking
-- Premium tier system
-- RESTful API
+**⚙️ Backend Systems**
+APIs with clear responsibilities and maintainable architecture.
+`Node.js` `Express` `REST APIs` `Zod`
 
-**Stack:**  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🗄️ Data Systems**
+Schemas, relationships, and data flows for growing apps.
+`PostgreSQL` `MongoDB` `Prisma` `Supabase`
+
+</td>
+<td width="50%" valign="top">
+
+**🚀 Infrastructure**
+Taking software from development to production.
+`Docker` `Vercel` `Git` `Firebase`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,php" alt="Languages" /><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,supabase" alt="Backend" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,firebase" alt="Tools" />
+</p>
+
+<br>
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Hostel Platform
+A location-aware hostel discovery platform with search, proximity ranking, and premium listings.
+
 `Next.js` `TypeScript` `MongoDB` `REST API`
 
-[View Project →](https://github.com/JoyalJJoy)
-
 </td>
-
 <td width="50%" valign="top">
 
-### 📊 Mini Jira
+### Mini Jira
+A project management platform inspired by modern issue-tracking systems.
 
-A **modern project management system** inspired by contemporary issue-tracking platforms.
-
-**Key Features:**
-- Issue tracking
-- Project management
-- User authentication
-- Real-time updates
-
-**Stack:**  
-`React` `FastAPI` `PostgreSQL` `Auth`
-
-[View Project →](https://github.com/JoyalJJoy)
+`React` `FastAPI` `PostgreSQL` `Authentication`
 
 </td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-## 📈 Impact & Activity
-
-</div>
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=default&rank_icon=github&hide=contribs)
-
-</td>
-
-<td align="center" width="33%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=default)
-
-</td>
-
-<td align="center" width="34%">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoyalJJoy&theme=default&hide_border=true)
-
-</td>
-
 </tr>
 </table>
 
 <br>
 
-<div align="center">
+## Engineering Principles
 
-[![Contribution Activity](https://ghchart.rshah.org/111111/JoyalJJoy)](https://github.com/JoyalJJoy)
+| | |
+|:--|:--|
+| **Clarity** | Understandable code over clever code |
+| **Structure** | Small pieces with clear responsibilities |
+| **Performance** | Measure first. Optimize what matters |
+| **Reliability** | Design for failure, not just success |
+| **Curiosity** | Learn by building and questioning |
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-## 🚀 Currently Exploring
-
-</div>
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-### Go
-Systems programming  
-Concurrency  
-Performance
-
-</td>
-
-<td align="center" width="25%">
-
-### Architecture
-System design  
-Distributed systems  
-Scalability
-
-</td>
-
-<td align="center" width="25%">
-
-### Cloud
-Containers  
-Infrastructure  
-Deployment
-
-</td>
-
-<td align="center" width="25%">
-
-### Backend
-APIs  
-Services  
-Reliability
-
-</td>
-
-</tr>
-</table>
-
----
+## GitHub Stats
 
 <div align="center">
 
-## 🎓 Engineering Principles
+<img src="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=default" height="165" alt="Top languages" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyalJJoy&theme=default&hide_border=true" alt="GitHub streak" />
+
+<br><br>
+
+<a href="https://github.com/JoyalJJoy">
+<img src="https://ghchart.rshah.org/111111/JoyalJJoy" alt="Contribution graph" width="90%" />
+</a>
 
 </div>
 
-```
-┌─────────────────────────────────────────────────┐
-│ 01  Clarity      Understandable over clever    │
-├─────────────────────────────────────────────────┤
-│ 02  Structure    Small pieces, clear purpose   │
-├─────────────────────────────────────────────────┤
-│ 03  Performance  Measure first, optimize smart │
-├─────────────────────────────────────────────────┤
-│ 04  Reliability  Design for failure gracefully │
-├─────────────────────────────────────────────────┤
-│ 05  Curiosity    Learn by building & questioning│
-└─────────────────────────────────────────────────┘
-```
+<br>
 
----
+## Let's Connect
 
-<div align="center">
-
-## 🌐 Connect & Collaborate
-
-</div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1200&color=666666&center=true&width=500&lines=Have+an+interesting+problem%3F;Let's+build+something+meaningful.;Always+open+to+good+ideas." alt="connect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=666666&center=true&width=550&height=35&lines=Have+an+interesting+problem%3F;Let's+build+something+meaningful.;Always+open+to+good+ideas." alt="connect" />
 
 <br><br>
 
 <div align="center">
 
-[**Portfolio**](https://joyal-personal-portfolio.vercel.app) • [**GitHub**](https://github.com/JoyalJJoy) • [**LinkedIn**](https://www.linkedin.com/in/joyal-j-j-410284286)
+[Portfolio](https://joyal-personal-portfolio.vercel.app) · [GitHub](https://github.com/JoyalJJoy) · [LinkedIn](https://www.linkedin.com/in/joyal-j-j-410284286)
 
-<br><br>
-
-<sub>**Crafted with intention. Built to last.**</sub>
-
-<sub>Joyal J Joy • India • 2026</sub>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in%20India-indianred?style=flat-square" alt="Made with love in India" />
+<sub>Joyal J Joy · India · 2026</sub>
 
 </div>
