@@ -1,161 +1,167 @@
 <div align="center">
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Joyal+J+Joy" alt="Joyal J Joy" />
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=42&duration=2500&pause=100000&color=1D1D1F&center=true&vCenter=true&width=600&height=80&lines=Joyal+J+Joy" alt="Joyal J Joy" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3200&pause=900&color=666666&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Engineer;Building+simple+things+well;Turning+ideas+into+reliable+software" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Text&weight=400&size=18&duration=100000&pause=100000&color=86868B&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Engineer" alt="tagline" />
 
 <br>
 
 <p>
-  <a href="https://joyal-personal-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/JoyalJJoy">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/joyal-j-j-410284286">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://joyal-personal-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" height="32" /></a>
+  &nbsp;
+  <a href="https://github.com/JoyalJJoy"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="32" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/joyal-j-j-410284286"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="32" /></a>
 </p>
+
+<br><br>
+
+</div>
+
+<div align="center">
+
+## Designed to build. Engineered to last.
+
+<sub>I build software across the full stack — interfaces, APIs, databases, and everything that connects them.</sub>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+### The Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind&theme=light" height="48" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,go,php&theme=light" height="48" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,firebase&theme=light" height="48" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel&theme=light" height="48" />
+
+</div>
+
+<br><br>
+
+---
+
+<br>
+
+<div align="center">
+
+### Selected Work
 
 </div>
 
 <br>
 
----
-
-## About Me
-
-I'm a Computer Science graduate and Full Stack Engineer from India. I enjoy building software across the stack — from interfaces and APIs to databases and deployment.
-
-My work centers on **clean interfaces, reliable backend systems, thoughtful architecture, and continuous learning**.
-
-```text
-Currently exploring → Go · System Design · Software Architecture · Cloud · Distributed Systems
-```
-
-<br>
-
-## What I Build
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-**🎨 Interfaces**
-Responsive, fast, and pleasant to use.
-`React` `Next.js` `TypeScript` `Tailwind CSS`
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ Backend Systems**
-APIs with clear responsibilities and maintainable architecture.
-`Node.js` `Express` `REST APIs` `Zod`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🗄️ Data Systems**
-Schemas, relationships, and data flows for growing apps.
-`PostgreSQL` `MongoDB` `Prisma` `Supabase`
-
-</td>
-<td width="50%" valign="top">
-
-**🚀 Infrastructure**
-Taking software from development to production.
-`Docker` `Vercel` `Git` `Firebase`
-
-</td>
-</tr>
-</table>
-
 <br>
 
-## Tech Stack
+**Hostel Platform**
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,php" alt="Languages" /><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" /><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,supabase" alt="Backend" /><br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,firebase" alt="Tools" />
-</p>
-
-<br>
-
-## Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Hostel Platform
 A location-aware hostel discovery platform with search, proximity ranking, and premium listings.
 
-`Next.js` `TypeScript` `MongoDB` `REST API`
+`Next.js` · `TypeScript` · `MongoDB`
 
+<br>
 </td>
 <td width="50%" valign="top">
+<br>
 
-### Mini Jira
+**Mini Jira**
+
 A project management platform inspired by modern issue-tracking systems.
 
-`React` `FastAPI` `PostgreSQL` `Authentication`
+`React` · `FastAPI` · `PostgreSQL`
 
+<br>
 </td>
 </tr>
 </table>
-
-<br>
-
-## Engineering Principles
-
-| | |
-|:--|:--|
-| **Clarity** | Understandable code over clever code |
-| **Structure** | Small pieces with clear responsibilities |
-| **Performance** | Measure first. Optimize what matters |
-| **Reliability** | Design for failure, not just success |
-| **Curiosity** | Learn by building and questioning |
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=default" height="165" alt="Top languages" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyalJJoy&theme=default&hide_border=true" alt="GitHub streak" />
+---
+
+<br>
+
+<div align="center">
+
+### Principles
+
+<br>
+
+<table width="100%">
+<tr>
+<td align="center" width="20%"><b>Clarity</b><br><sub>over cleverness</sub></td>
+<td align="center" width="20%"><b>Simplicity</b><br><sub>by default</sub></td>
+<td align="center" width="20%"><b>Reliability</b><br><sub>above all</sub></td>
+<td align="center" width="20%"><b>Craft</b><br><sub>in every detail</sub></td>
+<td align="center" width="20%"><b>Curiosity</b><br><sub>as a habit</sub></td>
+</tr>
+</table>
+
+</div>
+
+<br><br>
+
+---
+
+<br>
+
+<div align="center">
+
+### Activity
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=default&rank_icon=github&title_color=1D1D1F&text_color=86868B&icon_color=000000&bg_color=00000000" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=default&title_color=1D1D1F&text_color=86868B&bg_color=00000000" height="165" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyalJJoy&theme=default&hide_border=true&background=00000000&stroke=00000000&ring=000000&fire=000000&currStreakLabel=1D1D1F&sideLabels=86868B&currStreakNum=1D1D1F&sideNums=1D1D1F&dates=86868B" />
 
 <br><br>
 
 <a href="https://github.com/JoyalJJoy">
-<img src="https://ghchart.rshah.org/111111/JoyalJJoy" alt="Contribution graph" width="90%" />
+<img src="https://ghchart.rshah.org/1D1D1F/JoyalJJoy" width="90%" />
 </a>
 
 </div>
 
-<br>
-
-## Let's Connect
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=666666&center=true&width=550&height=35&lines=Have+an+interesting+problem%3F;Let's+build+something+meaningful.;Always+open+to+good+ideas." alt="connect" />
-
 <br><br>
+
+---
+
+<br>
 
 <div align="center">
 
-[Portfolio](https://joyal-personal-portfolio.vercel.app) · [GitHub](https://github.com/JoyalJJoy) · [LinkedIn](https://www.linkedin.com/in/joyal-j-j-410284286)
+### Let's talk
 
-<sub>Joyal J Joy · India · 2026</sub>
+<sub>Have an interesting problem? I'd love to hear about it.</sub>
+
+<br><br>
+
+[Portfolio](https://joyal-personal-portfolio.vercel.app) &nbsp;·&nbsp; [GitHub](https://github.com/JoyalJJoy) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/joyal-j-j-410284286)
+
+<br><br>
+
+<sub>Joyal J Joy &nbsp;·&nbsp; India &nbsp;·&nbsp; 2026</sub>
 
 </div>
