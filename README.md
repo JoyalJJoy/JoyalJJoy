@@ -1,133 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Joyal%20J%20Joy&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F7,50:E8E8ED,100:F5F5F7&height=240&section=header&text=Joyal%20J%20Joy&fontSize=56&fontColor=1D1D1F&fontAlignY=42&desc=Full%20Stack%20Engineer&descAlignY=58&descSize=18&descColor=6E6E73&animation=fadeIn" alt="header" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=Building+scalable+web+applications;Turning+complex+problems+into+clean+code;React+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+Go;Always+shipping%2C+always+learning." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=20&duration=2800&pause=1200&color=6E6E73&center=true&vCenter=true&width=600&height=40&lines=Designed+with+care.+Built+to+scale.;Clean+code%2C+clear+thinking.;React+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+Go" alt="typing"/>
 
 <br><br>
 
-<a href="https://joyal-personal-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=safari&logoColor=white" /></a>
-<a href="https://github.com/JoyalJJoy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/joyal-j-j-410284286"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://joyal-personal-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" height="30"/></a>
+&nbsp;
+<a href="https://github.com/JoyalJJoy"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/joyal-j-j-410284286"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=JoyalJJoy&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=JoyalJJoy&style=flat-square&color=1D1D1F&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:302b63&height=3&width=100%" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D2D2D7,100:F5F5F7&height=2&width=100%" width="100%"/>
+</div>
 
 <br>
-
-## 🧭 About Me
-
-```yaml
-name: Joyal J Joy
-role: Full Stack Engineer
-location: India
-focus: Clean architecture · Reliable systems · Great interfaces
-currently_exploring: [Go, System Design, Distributed Systems, Cloud]
-fun_fact: "I debug better with coffee ☕ and worse with silence"
-```
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:8B5CF6&height=3&width=100%" width="100%"/>
-
-<br>
-
-## ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,php&perline=5" /><br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5" /><br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,supabase&perline=6" /><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,firebase&perline=5" />
+## Thoughtfully engineered software.
+
+<sub>I build across the full stack — interfaces, APIs, databases, and everything that connects them —<br>with an obsession for clarity, reliability, and craft.</sub>
+
+</div>
+
+<br><br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F5F7,100:D2D2D7&height=2&width=100%" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+
+### The Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind&theme=light&perline=5" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,go,php&theme=light&perline=5" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase,firebase&theme=light&perline=5" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel&theme=light&perline=4" />
+
+</div>
+
+<br><br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D2D2D7,100:F5F5F7&height=2&width=100%" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+
+### Selected Work
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:302b63&height=3&width=100%" width="100%"/>
-
-<br>
-
-## 🚀 Featured Builds
-
 <table width="100%">
 <tr>
-<td width="50%">
-<a href="https://github.com/JoyalJJoy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoyalJJoy&repo=hostel-platform&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9c9c9&icon_color=8B5CF6" />
-</a>
-<blockquote>
-📍 Location-aware hostel discovery platform with search, proximity ranking &amp; premium listings.<br>
-<code>Next.js</code> <code>TypeScript</code> <code>MongoDB</code>
-</blockquote>
+<td width="50%" valign="top">
+<br>
+
+**Hostel Platform**
+
+A location-aware hostel discovery platform with search, proximity ranking, and premium listings.
+
+`Next.js` · `TypeScript` · `MongoDB`
+
+<br>
 </td>
-<td width="50%">
-<a href="https://github.com/JoyalJJoy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoyalJJoy&repo=mini-jira&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9c9c9&icon_color=8B5CF6" />
-</a>
-<blockquote>
-📋 Project management platform inspired by modern issue-tracking systems.<br>
-<code>React</code> <code>FastAPI</code> <code>PostgreSQL</code>
-</blockquote>
+<td width="50%" valign="top">
+<br>
+
+**Mini Jira**
+
+A project management platform inspired by modern issue-tracking systems.
+
+`React` · `FastAPI` · `PostgreSQL`
+
+<br>
 </td>
 </tr>
 </table>
 
-<sub>💡 If the cards above show "repo not found," rename them to match your actual repo names — or let me know and I'll wire in the real ones.</sub>
-
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:8B5CF6&height=3&width=100%" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F5F7,100:D2D2D7&height=2&width=100%" width="100%"/>
+</div>
 
 <br>
-
-## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9c9c9" height="165"/>
+### Activity
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=default&rank_icon=github&title_color=1D1D1F&text_color=6E6E73&icon_color=1D1D1F&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=default&title_color=1D1D1F&text_color=6E6E73&bg_color=00000000" height="165"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyalJJoy&theme=radical&hide_border=true&background=0f0c29&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyalJJoy&theme=default&hide_border=true&background=00000000&stroke=1D1D1F&ring=1D1D1F&fire=1D1D1F&currStreakLabel=1D1D1F&sideLabels=6E6E73&currStreakNum=1D1D1F&sideNums=1D1D1F&dates=6E6E73"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JoyalJJoy&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=JoyalJJoy&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:302b63&height=3&width=100%" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D2D2D7,100:F5F5F7&height=2&width=100%" width="100%"/>
+</div>
 
 <br>
 
-## 🐍 Contribution Snake
-
 <div align="center">
+
+### Contribution Snake
+
 <img src="https://raw.githubusercontent.com/JoyalJJoy/JoyalJJoy/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+
 </div>
 
 <details>
-<summary><b>⚙️ How to activate the snake animation (one-time setup)</b></summary>
+<summary align="center"><b>How to activate the snake animation</b></summary>
 
 <br>
 
-This eats your contribution graph and animates it. Add this GitHub Action to your profile repo:
-
-`.github/workflows/snake.yml`
+Add this to your profile repo as `.github/workflows/snake.yml`, then let it run once:
 
 ```yaml
 name: Generate Snake
@@ -147,9 +177,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: JoyalJJoy
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -158,42 +186,56 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Push it, let the Action run once, and the snake image above will start rendering automatically.
-
 </details>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:8B5CF6&height=3&width=100%" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F5F7,100:D2D2D7&height=2&width=100%" width="100%"/>
+</div>
 
 <br>
 
-## 🧠 Engineering Principles
-
 <div align="center">
 
-| 🎯 Clarity | 🧩 Structure | ⚡ Performance | 🛡️ Reliability | 🔍 Curiosity |
-|:---:|:---:|:---:|:---:|:---:|
-| Understandable code over clever code | Small pieces, clear responsibilities | Measure first, optimize what matters | Design for failure, not just success | Learn by building and questioning |
+### Principles
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="20%"><b>Clarity</b><br><sub>over cleverness</sub></td>
+<td align="center" width="20%"><b>Structure</b><br><sub>small, clear pieces</sub></td>
+<td align="center" width="20%"><b>Performance</b><br><sub>measure, then optimize</sub></td>
+<td align="center" width="20%"><b>Reliability</b><br><sub>designed for failure</sub></td>
+<td align="center" width="20%"><b>Curiosity</b><br><sub>as a daily habit</sub></td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:302b63&height=3&width=100%" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D2D2D7,100:F5F5F7&height=2&width=100%" width="100%"/>
+</div>
 
 <br>
 
 <div align="center">
 
-## 💬 Let's Build Something
+### Let's talk
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3200&pause=1000&color=86868B&center=true&vCenter=true&width=500&height=35&lines=Have+an+interesting+problem%3F;Let's+talk+about+it.;Always+open+to+good+ideas." />
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Text&weight=400&size=15&duration=3200&pause=1200&color=6E6E73&center=true&vCenter=true&width=480&height=32&lines=Have+an+interesting+problem%3F;Let's+build+something+meaningful.;Always+open+to+good+ideas."/>
 
 <br>
 
 [Portfolio](https://joyal-personal-portfolio.vercel.app) &nbsp;·&nbsp; [GitHub](https://github.com/JoyalJJoy) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/joyal-j-j-410284286)
 
+<br><br>
+
+<sub>Joyal J Joy &nbsp;·&nbsp; India &nbsp;·&nbsp; 2026</sub>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F7,50:E8E8ED,100:F5F5F7&height=100&section=footer" width="100%"/>
