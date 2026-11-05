@@ -1,161 +1,54 @@
 <div align="center">
 
-<br>
+# Joyal J Joy
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Joyal+J+Joy" alt="Joyal J Joy" />
+### Full-Stack Engineer · React · Next.js · TypeScript · Node.js
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3200&pause=900&color=666666&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Engineer;Building+simple+things+well;Turning+ideas+into+reliable+software" alt="tagline" />
+I build web applications from user interface to database, with a focus on clear code and reliable features.
 
-<br>
+**Seeking full-stack engineering opportunities**
 
-<p>
-  <a href="https://joyal-personal-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/JoyalJJoy">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/joyal-j-j-410284286">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[Portfolio](https://joyal-personal-portfolio.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/joyal-j-j-410284286) ·
+[GitHub](https://github.com/JoyalJJoy)
 
 </div>
 
-<br>
+## About
 
----
+I’m a Computer Science graduate and Full-Stack Engineer based in India. I enjoy turning ideas into useful software, working across frontend, backend, and data layers.
 
-## About Me
+I’m currently exploring Go, system design, cloud infrastructure, and distributed systems.
 
-I'm a Computer Science graduate and Full Stack Engineer from India. I enjoy building software across the stack — from interfaces and APIs to databases and deployment.
+## Featured Projects
 
-My work centers on **clean interfaces, reliable backend systems, thoughtful architecture, and continuous learning**.
+### Hostel Discovery Platform
 
-```text
-Currently exploring → Go · System Design · Software Architecture · Cloud · Distributed Systems
-```
+A location-aware platform for discovering hostels, with search, proximity-based ranking, and premium listings.
 
-<br>
-
-## What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎨 Interfaces**
-Responsive, fast, and pleasant to use.
-`React` `Next.js` `TypeScript` `Tailwind CSS`
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ Backend Systems**
-APIs with clear responsibilities and maintainable architecture.
-`Node.js` `Express` `REST APIs` `Zod`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🗄️ Data Systems**
-Schemas, relationships, and data flows for growing apps.
-`PostgreSQL` `MongoDB` `Prisma` `Supabase`
-
-</td>
-<td width="50%" valign="top">
-
-**🚀 Infrastructure**
-Taking software from development to production.
-`Docker` `Vercel` `Git` `Firebase`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,php" alt="Languages" /><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" /><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,supabase" alt="Backend" /><br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,firebase" alt="Tools" />
-</p>
-
-<br>
-
-## Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Hostel Platform
-A location-aware hostel discovery platform with search, proximity ranking, and premium listings.
-
-`Next.js` `TypeScript` `MongoDB` `REST API`
-
-</td>
-<td width="50%" valign="top">
+**Built with:** Next.js, TypeScript, MongoDB, REST APIs  
+**Links:** [Live demo](ADD_DEMO_LINK) · [Source code](ADD_REPOSITORY_LINK)
 
 ### Mini Jira
-A project management platform inspired by modern issue-tracking systems.
 
-`React` `FastAPI` `PostgreSQL` `Authentication`
+A Jira-inspired project management and issue-tracking application.
 
-</td>
-</tr>
-</table>
+**Built with:** React, FastAPI, PostgreSQL, authentication  
+**Links:** [Live demo](ADD_DEMO_LINK) · [Source code](ADD_REPOSITORY_LINK)
 
-<br>
+## Core Skills
 
-## Engineering Principles
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+- **Backend:** Node.js, Express, FastAPI, REST APIs, Zod
+- **Databases:** PostgreSQL, MongoDB, Prisma
+- **Tools and platforms:** Git, GitHub, Docker, Vercel, Supabase, Firebase
 
-| | |
-|:--|:--|
-| **Clarity** | Understandable code over clever code |
-| **Structure** | Small pieces with clear responsibilities |
-| **Performance** | Measure first. Optimize what matters |
-| **Reliability** | Design for failure, not just success |
-| **Curiosity** | Learn by building and questioning |
+## Let’s Connect
 
-<br>
+I’m open to discussing full-stack engineering roles and interesting projects.
 
-## GitHub Stats
+[Portfolio](https://joyal-personal-portfolio.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/joyal-j-j-410284286) ·
+[GitHub](https://github.com/JoyalJJoy)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JoyalJJoy&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyalJJoy&layout=compact&hide_border=true&theme=default" height="165" alt="Top languages" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyalJJoy&theme=default&hide_border=true" alt="GitHub streak" />
-
-<br><br>
-
-<a href="https://github.com/JoyalJJoy">
-<img src="https://ghchart.rshah.org/111111/JoyalJJoy" alt="Contribution graph" width="90%" />
-</a>
-
-</div>
-
-<br>
-
-## Let's Connect
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=666666&center=true&width=550&height=35&lines=Have+an+interesting+problem%3F;Let's+build+something+meaningful.;Always+open+to+good+ideas." alt="connect" />
-
-<br><br>
-
-<div align="center">
-
-[Portfolio](https://joyal-personal-portfolio.vercel.app) · [GitHub](https://github.com/JoyalJJoy) · [LinkedIn](https://www.linkedin.com/in/joyal-j-j-410284286)
-
-<sub>Joyal J Joy · India · 2026</sub>
-
-</div>
+The biggest improvement you can make next is adding the real demo and repository links for both projects. If you have measurable results—such as users, performance improvements, or features shipped—send those too, and I can make the project descriptions stronger without guessing.
