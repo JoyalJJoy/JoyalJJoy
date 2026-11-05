@@ -50,5 +50,4 @@ I’m open to discussing full-stack engineering roles and interesting projects.
 [Portfolio](https://joyal-personal-portfolio.vercel.app) ·
 [LinkedIn](https://www.linkedin.com/in/joyal-j-j-410284286) ·
 [GitHub](https://github.com/JoyalJJoy)
-
-The biggest improvement you can make next is adding the real demo and repository links for both projects. If you have measurable results—such as users, performance improvements, or features shipped—send those too, and I can make the project descriptions stronger without guessing.
+ 
